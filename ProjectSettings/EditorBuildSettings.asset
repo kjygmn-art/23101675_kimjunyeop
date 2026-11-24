@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01_Lobby.unity
+    guid: 69a2e49931fba4f49a80e4bbb1117c9f
+  - enabled: 1
+    path: Assets/Scenes/02_SongSelect.unity
+    guid: dd73b2f80ac034e4a906ec49448e4f51
+  - enabled: 1
+    path: Assets/Scenes/03_Game.unity
+    guid: 9939e277d7acaed43af98ca4da9d36b4
+  - enabled: 1
+    path: Assets/Scenes/04_Result.unity
+    guid: 70ce450933b550e41a344f509459b5f3
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c165ab1523b7daa43853113d676e27e7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 032cab9fbe425fe4f968b85ac431d671, type: 2}

@@ -1,0 +1,627 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c32d7b4b2f5cd4a46a6ed30c10973f47, type: 3}
+  m_Name: Fade_Easy
+  m_EditorClassIdentifier: Assembly-CSharp::VRRhythmBeat.Core.BeatmapData
+  songTitle: Fade - Gentle Flow
+  artist: 'Alan Walker [NCS Release]'
+  difficultyLabel: EASY
+  description: "Fade\uC758 90 BPM \uBA54\uC778 \uBA5C\uB85C\uB514\uC640 \uD0A5 \uBE44\uD2B8\uC5D0 \uB9DE\uCDB0 6\uB808\uC77C \uC644\uB9CC \uC544\uD06C\uB97C \uD3B8\uC548\uD788 \uC990\uAE30\uB294 \uC785\uBB38 \uCC44\uBCF4"
+  bpm: 90
+  recommendedNoteSpeed: 6.5
+  audioClip: {fileID: 8300000, guid: 8ca52f0a5a0f69b45b8a3138d5e425e0, type: 3}
+  audioOffsetSeconds: 0
+  notes:
+  - targetTime: 4
+    laneIndex: 3
+  - targetTime: 5.333
+    laneIndex: 1
+  - targetTime: 6.667
+    laneIndex: 3
+  - targetTime: 8
+    laneIndex: 1
+  - targetTime: 9.333
+    laneIndex: 4
+  - targetTime: 10.667
+    laneIndex: 1
+  - targetTime: 12
+    laneIndex: 3
+  - targetTime: 13.333
+    laneIndex: 2
+  - targetTime: 14.667
+    laneIndex: 4
+  - targetTime: 16
+    laneIndex: 2
+  - targetTime: 17.333
+    laneIndex: 3
+  - targetTime: 18.667
+    laneIndex: 1
+  - targetTime: 20
+    laneIndex: 4
+  - targetTime: 21.333
+    laneIndex: 1
+  - targetTime: 22.667
+    laneIndex: 4
+  - targetTime: 24
+    laneIndex: 2
+  - targetTime: 25.333
+    laneIndex: 3
+  - targetTime: 26.667
+    laneIndex: 2
+  - targetTime: 28
+    laneIndex: 3
+  - targetTime: 29.333
+    laneIndex: 1
+  - targetTime: 30.667
+    laneIndex: 4
+  - targetTime: 32
+    laneIndex: 2
+  - targetTime: 33.333
+    laneIndex: 4
+  - targetTime: 34.667
+    laneIndex: 1
+  - targetTime: 36
+    laneIndex: 3
+  - targetTime: 37.333
+    laneIndex: 2
+  - targetTime: 38.667
+    laneIndex: 3
+  - targetTime: 40
+    laneIndex: 1
+  - targetTime: 41.333
+    laneIndex: 4
+  - targetTime: 42.667
+    laneIndex: 1
+  - targetTime: 43.333
+    laneIndex: 4
+  - targetTime: 44
+    laneIndex: 1
+  - targetTime: 45.333
+    laneIndex: 4
+  - targetTime: 46
+    laneIndex: 1
+  - targetTime: 46.667
+    laneIndex: 4
+  - targetTime: 48
+    laneIndex: 1
+  - targetTime: 48.667
+    laneIndex: 3
+  - targetTime: 49.333
+    laneIndex: 2
+  - targetTime: 50.667
+    laneIndex: 4
+  - targetTime: 51.333
+    laneIndex: 1
+  - targetTime: 52
+    laneIndex: 4
+  - targetTime: 53.333
+    laneIndex: 1
+  - targetTime: 54
+    laneIndex: 4
+  - targetTime: 54.667
+    laneIndex: 2
+  - targetTime: 56
+    laneIndex: 3
+  - targetTime: 56.667
+    laneIndex: 1
+  - targetTime: 57.333
+    laneIndex: 4
+  - targetTime: 58.667
+    laneIndex: 2
+  - targetTime: 59.333
+    laneIndex: 4
+  - targetTime: 60
+    laneIndex: 1
+  - targetTime: 61.333
+    laneIndex: 4
+  - targetTime: 62
+    laneIndex: 1
+  - targetTime: 62.667
+    laneIndex: 4
+  - targetTime: 64
+    laneIndex: 1
+  - targetTime: 64.667
+    laneIndex: 4
+  - targetTime: 65.333
+    laneIndex: 1
+  - targetTime: 66.667
+    laneIndex: 3
+  - targetTime: 67.333
+    laneIndex: 1
+  - targetTime: 68
+    laneIndex: 4
+  - targetTime: 69.333
+    laneIndex: 2
+  - targetTime: 70.667
+    laneIndex: 4
+  - targetTime: 72
+    laneIndex: 1
+  - targetTime: 73.333
+    laneIndex: 4
+  - targetTime: 74.667
+    laneIndex: 1
+  - targetTime: 76
+    laneIndex: 4
+  - targetTime: 77.333
+    laneIndex: 1
+  - targetTime: 78
+    laneIndex: 4
+  - targetTime: 78.667
+    laneIndex: 1
+  - targetTime: 79.333
+    laneIndex: 4
+  - targetTime: 80
+    laneIndex: 0
+  - targetTime: 80
+    laneIndex: 5
+  - targetTime: 80.667
+    laneIndex: 5
+  - targetTime: 81.333
+    laneIndex: 0
+  - targetTime: 82
+    laneIndex: 5
+  - targetTime: 82.667
+    laneIndex: 0
+  - targetTime: 83.333
+    laneIndex: 5
+  - targetTime: 84
+    laneIndex: 0
+  - targetTime: 84.667
+    laneIndex: 5
+  - targetTime: 85.333
+    laneIndex: 0
+  - targetTime: 86
+    laneIndex: 5
+  - targetTime: 86.667
+    laneIndex: 2
+  - targetTime: 87.333
+    laneIndex: 5
+  - targetTime: 88
+    laneIndex: 0
+  - targetTime: 88.667
+    laneIndex: 5
+  - targetTime: 89.333
+    laneIndex: 0
+  - targetTime: 90
+    laneIndex: 5
+  - targetTime: 90.667
+    laneIndex: 2
+  - targetTime: 91.333
+    laneIndex: 5
+  - targetTime: 92
+    laneIndex: 0
+  - targetTime: 92.667
+    laneIndex: 5
+  - targetTime: 93.333
+    laneIndex: 0
+  - targetTime: 94
+    laneIndex: 5
+  - targetTime: 94.667
+    laneIndex: 0
+  - targetTime: 95.333
+    laneIndex: 5
+  - targetTime: 96
+    laneIndex: 2
+  - targetTime: 96.667
+    laneIndex: 5
+  - targetTime: 97.333
+    laneIndex: 0
+  - targetTime: 98
+    laneIndex: 5
+  - targetTime: 98.667
+    laneIndex: 0
+  - targetTime: 99.333
+    laneIndex: 5
+  - targetTime: 100
+    laneIndex: 2
+  - targetTime: 100.667
+    laneIndex: 5
+  - targetTime: 101.333
+    laneIndex: 0
+  - targetTime: 102
+    laneIndex: 5
+  - targetTime: 102.667
+    laneIndex: 2
+  - targetTime: 103.333
+    laneIndex: 5
+  - targetTime: 104
+    laneIndex: 0
+  - targetTime: 104.667
+    laneIndex: 5
+  - targetTime: 105.333
+    laneIndex: 0
+  - targetTime: 106
+    laneIndex: 5
+  - targetTime: 106.667
+    laneIndex: 2
+  - targetTime: 107.333
+    laneIndex: 5
+  - targetTime: 108
+    laneIndex: 2
+  - targetTime: 108.667
+    laneIndex: 5
+  - targetTime: 109.333
+    laneIndex: 0
+  - targetTime: 110
+    laneIndex: 5
+  - targetTime: 110.667
+    laneIndex: 0
+  - targetTime: 111.333
+    laneIndex: 5
+  - targetTime: 112
+    laneIndex: 2
+  - targetTime: 112.667
+    laneIndex: 5
+  - targetTime: 113.333
+    laneIndex: 0
+  - targetTime: 114
+    laneIndex: 5
+  - targetTime: 114.667
+    laneIndex: 0
+  - targetTime: 115.333
+    laneIndex: 5
+  - targetTime: 116
+    laneIndex: 0
+  - targetTime: 116.667
+    laneIndex: 5
+  - targetTime: 117.333
+    laneIndex: 1
+  - targetTime: 118
+    laneIndex: 5
+  - targetTime: 118.667
+    laneIndex: 2
+  - targetTime: 119.333
+    laneIndex: 5
+  - targetTime: 120
+    laneIndex: 0
+  - targetTime: 120.667
+    laneIndex: 5
+  - targetTime: 121.333
+    laneIndex: 0
+  - targetTime: 122
+    laneIndex: 5
+  - targetTime: 122.667
+    laneIndex: 2
+  - targetTime: 124
+    laneIndex: 4
+  - targetTime: 125.333
+    laneIndex: 1
+  - targetTime: 126.667
+    laneIndex: 3
+  - targetTime: 128
+    laneIndex: 2
+  - targetTime: 129.333
+    laneIndex: 4
+  - targetTime: 130.667
+    laneIndex: 2
+  - targetTime: 132
+    laneIndex: 3
+  - targetTime: 133.333
+    laneIndex: 2
+  - targetTime: 134.667
+    laneIndex: 3
+  - targetTime: 136
+    laneIndex: 1
+  - targetTime: 137.333
+    laneIndex: 4
+  - targetTime: 138.667
+    laneIndex: 1
+  - targetTime: 139.333
+    laneIndex: 4
+  - targetTime: 140
+    laneIndex: 1
+  - targetTime: 141.333
+    laneIndex: 4
+  - targetTime: 142
+    laneIndex: 1
+  - targetTime: 142.667
+    laneIndex: 4
+  - targetTime: 144
+    laneIndex: 1
+  - targetTime: 144.667
+    laneIndex: 3
+  - targetTime: 145.333
+    laneIndex: 1
+  - targetTime: 146.667
+    laneIndex: 3
+  - targetTime: 147.333
+    laneIndex: 1
+  - targetTime: 148
+    laneIndex: 4
+  - targetTime: 149.333
+    laneIndex: 1
+  - targetTime: 150
+    laneIndex: 3
+  - targetTime: 150.667
+    laneIndex: 1
+  - targetTime: 152
+    laneIndex: 3
+  - targetTime: 152.667
+    laneIndex: 2
+  - targetTime: 153.333
+    laneIndex: 3
+  - targetTime: 154.667
+    laneIndex: 1
+  - targetTime: 155.333
+    laneIndex: 4
+  - targetTime: 156
+    laneIndex: 2
+  - targetTime: 157.333
+    laneIndex: 4
+  - targetTime: 158
+    laneIndex: 1
+  - targetTime: 158.667
+    laneIndex: 3
+  - targetTime: 160
+    laneIndex: 1
+  - targetTime: 160.667
+    laneIndex: 4
+  - targetTime: 161.333
+    laneIndex: 1
+  - targetTime: 162.667
+    laneIndex: 4
+  - targetTime: 163.333
+    laneIndex: 1
+  - targetTime: 164
+    laneIndex: 3
+  - targetTime: 165.333
+    laneIndex: 1
+  - targetTime: 166
+    laneIndex: 3
+  - targetTime: 166.667
+    laneIndex: 2
+  - targetTime: 168
+    laneIndex: 3
+  - targetTime: 169.333
+    laneIndex: 1
+  - targetTime: 170.667
+    laneIndex: 4
+  - targetTime: 172
+    laneIndex: 1
+  - targetTime: 173.333
+    laneIndex: 4
+  - targetTime: 174
+    laneIndex: 1
+  - targetTime: 174.667
+    laneIndex: 4
+  - targetTime: 175.333
+    laneIndex: 1
+  - targetTime: 176
+    laneIndex: 0
+  - targetTime: 176
+    laneIndex: 5
+  - targetTime: 176.667
+    laneIndex: 0
+  - targetTime: 177.333
+    laneIndex: 5
+  - targetTime: 178
+    laneIndex: 0
+  - targetTime: 178.667
+    laneIndex: 5
+  - targetTime: 179.333
+    laneIndex: 0
+  - targetTime: 180
+    laneIndex: 5
+  - targetTime: 180.667
+    laneIndex: 0
+  - targetTime: 181.333
+    laneIndex: 5
+  - targetTime: 182
+    laneIndex: 0
+  - targetTime: 182.667
+    laneIndex: 5
+  - targetTime: 183.333
+    laneIndex: 0
+  - targetTime: 184
+    laneIndex: 5
+  - targetTime: 184.667
+    laneIndex: 0
+  - targetTime: 185.333
+    laneIndex: 5
+  - targetTime: 186
+    laneIndex: 0
+  - targetTime: 186.667
+    laneIndex: 5
+  - targetTime: 187.333
+    laneIndex: 0
+  - targetTime: 188
+    laneIndex: 5
+  - targetTime: 188.667
+    laneIndex: 0
+  - targetTime: 189.333
+    laneIndex: 5
+  - targetTime: 190
+    laneIndex: 0
+  - targetTime: 190.667
+    laneIndex: 5
+  - targetTime: 191.333
+    laneIndex: 0
+  - targetTime: 192
+    laneIndex: 5
+  - targetTime: 192.667
+    laneIndex: 0
+  - targetTime: 193.333
+    laneIndex: 5
+  - targetTime: 194
+    laneIndex: 0
+  - targetTime: 194.667
+    laneIndex: 5
+  - targetTime: 195.333
+    laneIndex: 0
+  - targetTime: 196
+    laneIndex: 5
+  - targetTime: 196.667
+    laneIndex: 0
+  - targetTime: 197.333
+    laneIndex: 5
+  - targetTime: 197.333
+    laneIndex: 0
+  - targetTime: 198
+    laneIndex: 0
+  - targetTime: 198.667
+    laneIndex: 5
+  - targetTime: 199.333
+    laneIndex: 0
+  - targetTime: 200
+    laneIndex: 5
+  - targetTime: 200.667
+    laneIndex: 0
+  - targetTime: 201.333
+    laneIndex: 5
+  - targetTime: 202
+    laneIndex: 0
+  - targetTime: 202.667
+    laneIndex: 5
+  - targetTime: 203.333
+    laneIndex: 0
+  - targetTime: 204
+    laneIndex: 5
+  - targetTime: 204.667
+    laneIndex: 0
+  - targetTime: 205.333
+    laneIndex: 5
+  - targetTime: 206
+    laneIndex: 0
+  - targetTime: 206.667
+    laneIndex: 5
+  - targetTime: 207.333
+    laneIndex: 0
+  - targetTime: 208
+    laneIndex: 3
+  - targetTime: 208.667
+    laneIndex: 0
+  - targetTime: 209.333
+    laneIndex: 3
+  - targetTime: 210
+    laneIndex: 0
+  - targetTime: 210.667
+    laneIndex: 3
+  - targetTime: 211.333
+    laneIndex: 0
+  - targetTime: 212
+    laneIndex: 5
+  - targetTime: 212.667
+    laneIndex: 0
+  - targetTime: 213.333
+    laneIndex: 5
+  - targetTime: 214
+    laneIndex: 0
+  - targetTime: 214.667
+    laneIndex: 5
+  - targetTime: 215.333
+    laneIndex: 0
+  - targetTime: 216
+    laneIndex: 5
+  - targetTime: 216.667
+    laneIndex: 0
+  - targetTime: 217.333
+    laneIndex: 5
+  - targetTime: 218
+    laneIndex: 0
+  - targetTime: 218.667
+    laneIndex: 3
+  - targetTime: 219.333
+    laneIndex: 0
+  - targetTime: 220
+    laneIndex: 5
+  - targetTime: 220.667
+    laneIndex: 0
+  - targetTime: 221.333
+    laneIndex: 5
+  - targetTime: 222
+    laneIndex: 0
+  - targetTime: 222.667
+    laneIndex: 5
+  - targetTime: 223.333
+    laneIndex: 0
+  - targetTime: 224
+    laneIndex: 5
+  - targetTime: 224.667
+    laneIndex: 0
+  - targetTime: 225.333
+    laneIndex: 5
+  - targetTime: 226
+    laneIndex: 0
+  - targetTime: 226.667
+    laneIndex: 3
+  - targetTime: 227.333
+    laneIndex: 0
+  - targetTime: 228
+    laneIndex: 5
+  - targetTime: 228.667
+    laneIndex: 0
+  - targetTime: 229.333
+    laneIndex: 5
+  - targetTime: 230
+    laneIndex: 0
+  - targetTime: 230.667
+    laneIndex: 5
+  - targetTime: 231.333
+    laneIndex: 0
+  - targetTime: 232
+    laneIndex: 3
+  - targetTime: 232.667
+    laneIndex: 0
+  - targetTime: 233.333
+    laneIndex: 5
+  - targetTime: 234
+    laneIndex: 0
+  - targetTime: 234.667
+    laneIndex: 5
+  - targetTime: 235.333
+    laneIndex: 0
+  - targetTime: 236
+    laneIndex: 5
+  - targetTime: 236.667
+    laneIndex: 0
+  - targetTime: 237.333
+    laneIndex: 3
+  - targetTime: 238
+    laneIndex: 0
+  - targetTime: 238.667
+    laneIndex: 5
+  - targetTime: 239.333
+    laneIndex: 0
+  - targetTime: 240
+    laneIndex: 3
+  - targetTime: 241.333
+    laneIndex: 2
+  - targetTime: 242.667
+    laneIndex: 4
+  - targetTime: 244
+    laneIndex: 2
+  - targetTime: 245.333
+    laneIndex: 3
+  - targetTime: 246.667
+    laneIndex: 1
+  - targetTime: 248
+    laneIndex: 3
+  - targetTime: 249.333
+    laneIndex: 1
+  - targetTime: 250.667
+    laneIndex: 4
+  - targetTime: 252
+    laneIndex: 2
+  - targetTime: 253.333
+    laneIndex: 4
+  - targetTime: 254.667
+    laneIndex: 2
+  - targetTime: 256
+    laneIndex: 4
+  - targetTime: 257.333
+    laneIndex: 1
+  - targetTime: 258.667
+    laneIndex: 2
+  - targetTime: 258.667
+    laneIndex: 3
+  - targetTime: 260
+    laneIndex: 1
